@@ -1,0 +1,82 @@
+pbosfzbp:
+  lmqxzilra:
+    fjxdb: xhxpeqbze111/lmqxzilra:ixqbpq
+    mloqp:
+      - "3000:3000"
+  zxzeb:
+    fjxdb: alzhbo.fl/obxavpbqqbze/obxavpbq:ixqbpq
+    mixqcloj: ifkru/xja64
+    mloqp:
+      # Qeb ObxavPbq Xaxmqbo ifpqbk mloq, f.b. texq vlro xmmifzxqflk / PNI pebii zlkkbzqp ql
+      - "3307:3307"
+      # ObxavPbq Moljbqebrp jbqofzp xsxfixyib xq eqqm://ilzxielpq:6034/jbqofzp
+      # b.d. zroi -U DBQ eqqm://ilzxielpq:6034/jbqofzp
+      - "6034:6034"
+    bksfolkjbkq:
+      ABMILVJBKQ_BKS: nrfzhpqxoq_alzhbo
+      AY_AFO: /pqxqb
+      MOLJBQEBRP_JBQOFZP: "qorb"
+      NRBOV_ILD_JLAB: bkxyiba
+      NRBOV_ZXZEFKD: bumifzfq
+      PQXKAXILKB: "qorb"
+      ABMILVJBKQ: alzhbo_zljmlpb_abmilvjbkq
+      IFPQBK_XAAOBPP: 0.0.0.0:3307
+      # Tb alk'q exsb zlkqoli lsbo tebqebo rpbop xob rpfkd x mxpptloa lo klq clo qeb
+      # abjl/nrfzhpqxoq, pl rpb qeb jlob mbojfppfsb jlab.
+      XIILT_RKXRQEBKQFZXQBA_ZLKKBZQFLKP: "qorb"
+      RMPQOBXJ_AY_ROI: jvpni://ollq:obxavpbq@jvpni/qbpqay
+      ZLKQOLIIBO_XAAOBPP: 0.0.0.0
+    slirjbp:
+      - "obxavpbq:/pqxqb"
+    ebxiqezebzh:
+      qbpq: ["ZJA", "zroi", "--cxfi", "127.0.0.1:6034/ebxiqe"]
+      fkqbosxi: 2p
+      qfjblrq: 1p
+      obqofbp: 5
+      pqxoq_mbofla: 5p
+    abmbkap_lk:
+      jvpni:
+        zlkafqflk: pbosfzb_ebxiqev
+  moljbqebrp:
+    fjxdb: mryifz.bzo.xtp/obxavpbq/obxavpbq-moljbqebrp:ixqbpq
+    ebxiqezebzh:
+      qbpq: ["ZJA", "kz", "-sw", "ilzxielpq", "9090"]
+      fkqbosxi: 5p
+      qfjblrq: 5p
+      obqofbp: 12
+    mloqp:
+      - "9090:9090"
+    slirjbp:
+      - "moljbqebrp:/moljbqebrp"
+  mrpedxqbtxv:
+    fjxdb: molj/mrpedxqbtxv
+    bumlpb:
+      - 9091
+  doxcxkx:
+    fjxdb: mryifz.bzo.xtp/obxavpbq/obxavpbq-doxcxkx:ixqbpq
+    mloqp:
+      - "4000:4000"
+    bksfolkjbkq:
+      RMPQOBXJ_AY_ROI: jvpni://ollq:obxavpbq@jvpni/qbpqay
+      OP_ELPQ: zxzeb
+      OP_MLOQ: 3307
+      OP_DOXCXKX_MLOQ: 4000
+  jvpni:
+    fjxdb: jvpni:8
+    bksfolkjbkq:
+      - JVPNI_OLLQ_MXPPTLOA=obxavpbq
+      - JVPNI_AXQXYXPB=qbpqay
+    bumlpb:
+      - 3306
+    ebxiqezebzh:
+      qbpq: "jvpnixajfk mfkd -e127.0.0.1 -M3306 -rollq -mobxavpbq"
+      fkqbosxi: 5p
+      qfjblrq: 5p
+      obqofbp: 12
+    pqlm_doxzb_mbofla: 30p
+    slirjbp:
+      - jvpni_axqx:/sxo/ify/jvpni
+slirjbp:
+  jvpni_axqx: ~
+  moljbqebrp: ~
+  obxavpbq: ~
